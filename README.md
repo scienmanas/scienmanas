@@ -3,7 +3,7 @@
 
 **I am Manas Poddar**, currently student of Indian Institute of Technology Tirupati.
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Python
 - 🌱 I’m currently learning Python, ML and Software Development
 - 👯 I’m looking to collaborate on Python related Projects.
 - 📫 How to reach me:
