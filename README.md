@@ -10,4 +10,4 @@
    1. email: iamscientistmanas@gmail.com
    2. linkdin: https://www.linkedin.com/in/manas-poddar-5a0098227/
 - 🌐 Website - https://scienmanas.github.io
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: he/him
