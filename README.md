@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scienmanas&label=Profile%20views&color=0e75b6&style=flat" alt="scienmanas" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scienmanas&theme=onedark" alt="scienmanas" /></a> </p>
+
 - 🔭 I’m currently working on [My Blog Project & Portfolio website](https://scienmanas.github.io)
 
 - 🌱 I’m currently learning **Fast API, Django, Flutter and Machine Learning**
