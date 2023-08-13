@@ -13,9 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [my github profile](my github profile)
 
-- 📫 How to reach me **iamscientistmanas@gmail.com**
+- 📫 How to reach me : **iamscientistmanas@gmail.com**
 
-- ⚡ Fun fact **I think I am analstic**
+- ⚡ Fun fact **I think I am analystic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
