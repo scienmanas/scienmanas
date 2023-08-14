@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Python Related Projects**
 
-- 👨‍💻 All of my projects are available at [my github profile](https://github.com/scienmanas/scienmanas)
+- 👨‍💻 All of my projects are available at [my github profile](https://github.com/scienmanas)
 
 - 📫 How to reach me : **iamscientistmanas@gmail.com**
 
