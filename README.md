@@ -35,4 +35,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scienmanas&layout=donut&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=scienmanas&theme=synthwave)](https://git.io/streak-stats)
