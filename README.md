@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Manas Poddar</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+![Untitled (1)](https://github.com/scienmanas/scienmanas/assets/99756067/d0f7235a-1a2f-40c8-a451-44505b396f0e)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scienmanas&label=Profile%20views&color=0e75b6&style=flat" alt="scienmanas" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scienmanas&theme=onedark" alt="scienmanas" /></a> </p>
