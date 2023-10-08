@@ -2,10 +2,11 @@
 <h1 align="center">Hi 👋, I'm Manas Poddar</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-![Untitled (1)](https://github.com/scienmanas/scienmanas/assets/99756067/d0f7235a-1a2f-40c8-a451-44505b396f0e)
+![Init Image](https://github.com/scienmanas/scienmanas/assets/99756067/d0f7235a-1a2f-40c8-a451-44505b396f0e)
 
+Hi ! I'm Manas Poddar, a third-year student in the Department of Chemical Engineering at the Indian Institute of Technology Tirupati. Welcome to my GitHub profile! I'm an all-round coder with expertise in web development, app development, scripting, and cyber security. I'm passionate about technology and enjoy brainstorming innovative ideas. Feel free to explore my projects and repositories, a reach out if you would like to collaborate.
 
-
+## About Me
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scienmanas&theme=onedark" alt="scienmanas" /></a> </p>
 
