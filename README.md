@@ -10,18 +10,6 @@ Hi ! I'm Manas Poddar, a third-year student in the Department of Chemical Engine
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scienmanas&theme=onedark" alt="scienmanas" /></a> </p>
 
-- 🔭 I’m currently working on [My Blog Project & Portfolio website](https://scienmanas.github.io)
-
-- 🌱 I’m currently learning **Fast API, Django, Flutter and Machine Learning**
-
-- 👯 I’m looking to collaborate on **Python Related Projects**
-
-- 👨‍💻 All of my projects are available at [my github profile](https://github.com/scienmanas)
-
-- 📫 How to reach me : **iamscientistmanas@gmail.com**
-
-- ⚡ Fun fact **I think I am analystic**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/manas-poddar-5a0098227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manas-poddar-5a0098227" height="30" width="40" /></a>
