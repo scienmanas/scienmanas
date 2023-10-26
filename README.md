@@ -9,7 +9,7 @@ Hi ! I'm Manas Poddar, a third-year student in the Department of Chemical Engine
 
 * 🎓Pursuing B.Tech in Chemical Engineering at Indian Institute of Technology,
 * 💻Skills: Python, Dart(Flutter), Scripting, Scrapping, React.js (Web Development)
-* 👨‍🚀Heacd of [astroclubiitt](https://github.com/astroclubiitt): fostering a diverse community of astronomy enthusiast in the institute
+* 👨‍🚀Heacd of [astroclubiitt](https://github.com/astroclubiitt) : fostering a diverse community of astronomy enthusiast in the institute
 * 🔌Comfortable with working on Arduinno Related Projects, familiar with different microcontrollers, sensors.
 * 🌟A enthusiast student always open to discussions and learning.
   
@@ -18,7 +18,7 @@ Hi ! I'm Manas Poddar, a third-year student in the Department of Chemical Engine
 * ⚙️[CertiMailer](https://github.com/scienmanas/CertiMailer) - A Automated Certificate Generaotor and mailing system.
 * 🐍Proficient in Python Scripting: Built many projects on Python Scripting and Scrapping of data from web.
 * 📱Developed mobile apllication using Flutter Framework
-* 🌐 Developed [Gagan Vedhi](https://wwww.gaganvedhi.tech) Webiste with Astrowind, Astro 3.0 and Tailwind CSS.
+* 🌐 Developed [Gagan Vedhi](https://www.gaganvedhi.tech) Webiste with Astrowind, Astro 3.0 and Tailwind CSS.
 * 👨‍💻Fluent in developing application by using different Python Libararies
 
 ## Achievements
