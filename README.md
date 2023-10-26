@@ -7,12 +7,13 @@
 Hi ! I'm Manas Poddar, a third-year student in the Department of Chemical Engineering at the Indian Institute of Technology Tirupati. Welcome to my GitHub profile! I'm an all-round coder with expertise in web development, app development, scripting, and cyber security. I'm passionate about technology and enjoy brainstorming innovative ideas. Feel free to explore my projects and repositories, a reach out if you would like to collaborate.
 
 ## About Me
-* Pursuing B.Tech in Chemical Engineering at Indian Institute of Technology,
-* Skills: Python, Dart(Flutter), Scripting, Scrapping, React.js (Web Development)
-* Heacd of @astroclubiittp: fostering a diverse community of astronomy enthusiast in the institute
-* Comfortable with working on Arduinno Related Projects
-
+* 🎓Pursuing B.Tech in Chemical Engineering at Indian Institute of Technology,
+* 💻Skills: Python, Dart(Flutter), Scripting, Scrapping, React.js (Web Development)
+* 👨‍🚀Heacd of [astroclubiitt](https://github.com/astroclubiitt): fostering a diverse community of astronomy enthusiast in the institute
+* 🔌Comfortable with working on Arduinno Related Projects, familiar with different microcontrollers, sensors.
+* 🌟A enthusiast student always open to discussions and learning.
 ## Projects
+*
 
 ## Cuurent Focus
 
