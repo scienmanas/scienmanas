@@ -9,7 +9,7 @@ Hi ! I'm Manas Poddar, a third-year student in the Department of Chemical Engine
 
 * 🎓Pursuing B.Tech in Chemical Engineering at Indian Institute of Technology,
 * 💻Skills: Python, Dart(Flutter), Scripting, Scrapping, React.js (Web Development)
-* 👨‍🚀Heacd of [astroclubiitt](https://github.com/astroclubiitt) : fostering a diverse community of astronomy enthusiast in the institute
+* 👨‍🚀Head of [astroclubiitt](https://github.com/astroclubiitt) : fostering a diverse community of astronomy enthusiast in the institute
 * 🔌Comfortable with working on Arduinno Related Projects, familiar with different microcontrollers, sensors.
 * 🌟A enthusiast student always open to discussions and learning.
   
