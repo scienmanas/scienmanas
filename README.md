@@ -22,9 +22,11 @@ Hi ! I'm Manas Poddar, a third-year student in the Department of Chemical Engine
 * 👨‍💻Fluent in developing application by using different Python Libararies
 
 ## Achievements
-
+* Gold Medal🏅, HackBells 2.0, for developing a cybersecurity Tool.
+* EyeInvent - Gold🏅, For innovative idea for automating handling of 90 D lens.
+* Collaborated with IISER and along with code club at IIT Tiruapti, made an android app which won them gold🏅 in iGEM 2023.
 * 🏅 Proud recipient of the Shasstra Silver Medal and Bronze Inter IIT Low Prep Cognitive Garage.
-* 🚀Top 10% in DeepRacer Student - July 2023 Race
+* 🚀Top 10% in DeepRacer Student - July 2023 Race (Student Nationals)
 
 ## Connect With Me
 
