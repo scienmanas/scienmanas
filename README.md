@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm Manas</h1>
 
-![Banner-Github](https://github.com/scienmanas/scienmanas/assets/99756067/4082b6b9-7391-4c21-8aa8-ac3dbbf590e2)
-
+<!-- Banner lagana ha  -->
 
 ## About Me
 
