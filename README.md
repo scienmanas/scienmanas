@@ -63,8 +63,8 @@ $ npm run deploy && python main.py
   <a href="https://twitter.com/ScientistManas">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-    <a href="https://twitter.com/ScientistManas">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/scienmanas" height="35" alt="twitter logo"  />
+    <a href="https://codepen.io/scienmanas">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="35" alt="twitter logo"  />
   </a>
 
 </div>
