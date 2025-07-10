@@ -23,8 +23,8 @@ $ npm run deploy && python main.py
 {
   "About": "Hi, Manas this side 👋",
   "I'm": "Crazy Engineer (Jugaadu) 🛠️",
-  "Designation": "Student at Indian Institute of Tirupati 🎓",
-  "Learning": "Machine Learning 🤖 and Solana ecosystem (Rust) 🦀",
+  "Designation": "Software Engineer 👷",
+  "Learning": "Machine Learning 🤖, micro-services architecture and go lang",
   "Looking to": "Collaborate on Open-Source projects (GenAI) 🌐",
   "Loves to": "Read in silence 📖, travel ✈️, and spend time with close ones ❤️",
   "Reach me at": "📧 iamscientistmanas@gmail.com"
